@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/libs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/libs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/libs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/client-combined-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/selenium-java-3.9.1/client-combined-3.9.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/SPARQL-JAVA-master/SPARQL-JAVA-master/dist/SPARQL-JAVA.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-rdf4j-2.2.4-onejar.jar"/>
+	<classpathentry kind="lib" path="D:/slf4j-1.8.0-beta1/log4j-over-slf4j-1.8.0-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/slf4j-1.8.0-beta1/slf4j-api-1.8.0-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/slf4j-1.8.0-beta1/slf4j-simple-1.8.0-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="D:/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/rdf2rdf-1.0.1-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/GraphDB Free/app/lib/graphdb-application-common-8.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/GraphDB Free/app/lib/graphdb-loadrdf-8.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/GraphDB Free/app/lib/graphdb-free-runtime-8.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/GraphDB Free/app/lib/graphdb-notifications-8.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/GraphDB Free/app/lib/graphdb-statistics-spring-8.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/java-rt-jar-stubs-1.5.0.jar/java-rt-jar-stubs-1.5.0.jar"/>
+	<classpathentry kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Dropbox/weka.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Dropbox/classification.jar"/>
+	<classpathentry kind="lib" path="D:/stanford-ner-2014-01-04/stanford-ner-2014-01-04/stanford-ner.jar"/>
+	<classpathentry kind="lib" path="D:/stanford-ner-2014-01-04/stanford-ner-2014-01-04/stanford-ner-3.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/stanford-ner-2014-01-04/stanford-ner-2014-01-04/stanford-ner-3.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/stanford-ner-2014-01-04/stanford-ner-2014-01-04/stanford-ner-2014-01-04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/aopalliance-repackaged-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/grizzly-framework-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/grizzly-http-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/grizzly-http-server-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/hk2-api-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/hk2-locator-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/hk2-utils-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/hppc-0.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jackson-annotations-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jackson-core-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jackson-databind-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jackson-jaxrs-base-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jackson-jaxrs-json-provider-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jackson-module-jaxb-annotations-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/javax.inject-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jersey-client-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jersey-common-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jersey-container-grizzly2-http-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jersey-entity-filtering-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jersey-guava-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jersey-media-jaxb-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jersey-media-json-jackson-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/jersey-server-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/morfologik-fsa-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/morfologik-fsa-builders-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/morfologik-stemming-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/morfologik-tools-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/opennlp-brat-annotator-1.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/opennlp-morfologik-addon-1.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/opennlp-tools-1.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/opennlp-uima-1.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/apache-opennlp-1.8.4-bin/apache-opennlp-1.8.4/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/jar_files/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/husseiny.hazimeh/Desktop/jar_files/commons-text-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
